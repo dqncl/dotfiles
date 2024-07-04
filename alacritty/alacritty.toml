@@ -1,0 +1,14 @@
+import = [
+  "/usr/lib/node_modules/alacritty-themes/themes/Tokyonight_Storm.toml"
+]
+
+[debug]
+log_level = "Error"
+persistent_logging = false
+
+[window]
+opacity = 0.95
+blur = true
+
+[font]
+size = 17
